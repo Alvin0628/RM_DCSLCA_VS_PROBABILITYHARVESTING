@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+optuna
+category-encoders
+matplotlib
+seaborn
+rich
+joblib
+jupyter
